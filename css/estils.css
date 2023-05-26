@@ -655,6 +655,16 @@
     width: 70%;
 }
 
+.waterfall_Activities{
+    display: flex;
+    justify-content: center;
+    
+}
+
+#waterfall_Activities_img{
+    border-radius: 10%;
+}
+
 
 /*-------------------------------------------------------------------------*/
 
